@@ -2,7 +2,7 @@
 Gradle source code repository for the examples from my blog post, http://bit.ly/JavaAssert.
 Built and tested on Linux Mint.
 
-![alt text](https://raw.githubusercontent.com/afinlay5/JavaAssert/master/blog.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/JavaAssertions/master/blog.png)
 
 # Platform 
 - Any supporting a JVM for Java SE 1.4+.
@@ -14,4 +14,4 @@ Built and tested on Linux Mint.
 - None (04/27/2018).
 
 # Execution Screenshot
-![alt text](https://raw.githubusercontent.com/afinlay5/JavaAssert/master/run.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/JavaAssertions/master/run.png)
